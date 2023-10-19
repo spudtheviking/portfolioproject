@@ -1,4 +1,17 @@
+body {
+  background-color: #BDF2DD;
+  text-align: center;
+}
+
 h1 {
   font-family: "Palatino", "URW Palladio L", serif;
+}
+
+.text-align {
+  text-align: center;
+}
+
+p {
+  
 }
  
